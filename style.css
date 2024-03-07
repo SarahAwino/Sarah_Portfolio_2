@@ -1,0 +1,207 @@
+.navbar {
+    background-color: aqua;
+}
+.logo{
+    background-color: aquamarine;
+}
+.logo img {
+    border-style: double;
+    border-width: 5px;
+border-radius: 5px;
+}
+.navbar li{
+    display:inline;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    color: fuchsia;
+    width: 100px;
+    text-transform: uppercase;
+    line-height: 30px;
+    margin: 1%;
+}
+.navbar li:hover {
+    background-color: chartreuse;
+    padding: 10px;
+}
+.image img {
+    height: 500px;
+    width: 500px;
+    float: left;
+    width: 50%;
+
+}
+.image {
+position: absolute;
+width: 70%;
+height: 70%;
+left: 2%;
+top: 20%;
+background-color: darkslategrey;
+padding: 30px;
+padding-left: 2%;
+padding-right: 26%;
+padding-bottom: 5%;
+}
+.image p {
+    font: larger;
+    font-size: large;
+    font-style: normal;
+    color: brown;
+    text-rendering: geometricPrecision;
+    text-indent: 5%;
+    font-style: italic;
+    font-weight: bold;
+    top: 20%;
+
+
+}
+.image h2{
+    color: blue;
+    font-style: oblique;
+    text-indent: 10%;
+    padding-top: 10%;
+}
+.education img{
+ height: 300px;
+ width: 300px;
+ float:left;
+ 
+}
+.edu_2 img {
+    height: 200px;
+    width: 300px;
+    float: right;
+}
+.education {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    left: 2%;
+    top: 20%;
+    padding: 30px;
+    padding-left: 2%;
+    padding-right: 26%;
+    padding-bottom: 5%;
+}
+.education p {
+    font: larger;
+    font-size: large;
+    font-style: normal;
+    color: darkgreen;
+    text-rendering: geometricPrecision;
+    text-indent: 5%;
+    font-style: italic;
+    font-weight: bold;
+    top: 20%;
+}
+.education h2{
+    color: chocolate;
+    font-style: oblique;
+    text-indent: 20%;
+    padding-top: 2%;
+}
+
+.professional img{
+    height: 250px;
+    width: 200px;
+    float:left;
+}
+.leadership img{
+    height: 200px;
+    width: 250px;
+    float: right;
+}
+.freelance img {
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.professional{
+    float: left; 
+    font: larger;
+    font-size: large;
+    font-style: normal;
+    color: cornflowerblue;
+    text-rendering: geometricPrecision;
+    text-indent: 5%;
+    font-style: italic;
+    font-weight: bold;
+    top: 20%;
+    background-color: teal;
+}
+.leadership{
+    float: right;
+    font: larger;
+    font-size: large;
+    font-style: normal;
+    color: black;
+    text-rendering: geometricPrecision;
+    text-indent: 5%;
+    font-style: italic;
+    font-weight: bold;
+    top: 20%;
+    background-color: darkslategray;
+}
+.freelance {
+    float: left;
+    font: larger;
+    font-size: large;
+    font-style: normal;
+    color: darkred;
+    text-rendering: geometricPrecision;
+    text-indent: 5%;
+    font-style: italic;
+    font-weight: bold;
+    top: 20%;
+    background-color: darkolivegreen;
+}
+.professional h3 {
+    text-indent: 30%;
+}
+.leadership h3{
+    text-indent: 30%;
+}
+.freelance h3{
+    text-indent: 30%;
+}
+.skills img{
+    height: 450px;
+    width: 450px;
+    float: left; 
+}
+.skills{
+    float: right;
+    font: larger;
+    font-size: large;
+    font-style: normal;
+    color: cyan;
+    text-rendering: geometricPrecision;
+    text-indent: 5%;
+    font-style: italic;
+    font-weight: bold;
+    top: 20%;
+    
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    left: 2%;
+    top: 20%;
+    padding: 30px;
+    padding-left: 2%;
+    padding-right: 26%;
+    padding-bottom: 5%;
+}
+.contact {
+    font-size: xx-large;
+    font-weight: bolder;
+    color: deeppink;
+    text-indent: 35%;
+    padding: 1%;
+    margin: 5%; 
+    text-align: justify;
+}
+.linkedin p {
+    text-indent: 0%;
+}
